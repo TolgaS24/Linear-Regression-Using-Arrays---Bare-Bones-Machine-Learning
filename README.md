@@ -1,1 +1,0 @@
-# Linear-Regression-Using-Arrays---Bare-Bones-Machine-Learning
